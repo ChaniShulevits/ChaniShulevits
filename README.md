@@ -10,6 +10,17 @@ I enjoy designing clean architectures, solving complex problems, and continuousl
 
 ---
 
+## Practical Experience
+
+### Full Stack & AI Developer | Bizz-Tec
+- Developing scalable backend architectures and RESTful APIs using **.NET / ASP.NET Core** and **Node.js / NestJS**.
+- Building intelligent AI-driven features using **LLMs, RAG patterns, and AI Agents**.
+- Designing and optimizing database schemas across **SQL (PostgreSQL, SQL Server)** and **NoSQL (MongoDB)** environments.
+- Implementing third-party integrations, including **Meta Graph API** and **WhatsApp Automation**.
+- Applying clean code practices, **SOLID principles**, and **Design Patterns** to ensure maintainable and efficient codebases.
+
+---
+
 ## Tech Stack
 
 ### Languages
@@ -32,28 +43,16 @@ OOP • SOLID • Design Patterns • REST APIs • Algorithms • Data Structur
 
 ---
 
-## Projects
+## Key Projects
 
-### Document Management System
-
-Full-stack document management platform with REST APIs, document organization, audit history, and database integration.
-
-### MemDrive Engine
-
-In-memory database engine implementing advanced Design Patterns, SOLID principles, and generic programming.
-
-### AI Service Bot
-
-AI-powered conversational system for user interaction analysis, automated responses, and insights generation.
-
-### Learning Platform
-
-AI-powered educational platform that creates personalized learning experiences.
+- **AI Service Bot:** Conversational system for automated responses and user interaction analysis.
+- **Document Management System:** Full-stack platform with REST APIs, document organization, and audit history.
+- **MemDrive Engine:** High-performance in-memory database engine built with advanced Design Patterns and generic programming.
+- **Learning Platform:** AI-powered educational platform creating personalized learning experiences.
 
 ---
 
 ## Contact
 
-Email: chanishulevitz@gmail.com
-
-GitHub: https://github.com/ChaniShulevits
+- **Email:** chanishulevitz@gmail.com
+- **GitHub:** [github.com/ChaniShulevitz](https://github.com/ChaniShulevitz)
