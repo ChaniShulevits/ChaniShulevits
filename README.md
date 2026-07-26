@@ -10,17 +10,6 @@ I enjoy designing clean architectures, solving complex problems, and continuousl
 
 ---
 
-## Practical Experience
-
-### Full Stack & AI Developer | Bizz-Tec
-- Developing scalable backend architectures and RESTful APIs using **.NET / ASP.NET Core** and **Node.js / NestJS**.
-- Building intelligent AI-driven features using **LLMs, RAG patterns, and AI Agents**.
-- Designing and optimizing database schemas across **SQL (PostgreSQL, SQL Server)** and **NoSQL (MongoDB)** environments.
-- Implementing third-party integrations, including **Meta Graph API** and **WhatsApp Automation**.
-- Applying clean code practices, **SOLID principles**, and **Design Patterns** to ensure maintainable and efficient codebases.
-
----
-
 ## Tech Stack
 
 ### Languages
