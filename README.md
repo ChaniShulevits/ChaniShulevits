@@ -1,47 +1,47 @@
-# Hi, I'm Chani Shulevitz
+# 👋 Hi, I'm Chani Shulevitz
 
-## Software Developer | Backend & AI
+## 💻 Software Developer | Backend & AI
 
 I'm a software developer passionate about building backend systems, full-stack applications, and AI-powered solutions.
 
-Currently working at Bizz-Tec on Full Stack and AI projects, developing practical solutions using modern technologies.
+🚀 Currently working at **Bizz-Tec** on Full Stack and AI projects, developing practical solutions using modern technologies.
 
-I enjoy designing clean architectures, solving complex problems, and continuously learning new technologies.
+💡 I enjoy designing clean architectures, solving complex problems, and continuously learning new technologies.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### 🗣️ Languages
 C# • Java • Python • TypeScript • JavaScript • SQL • C/C++
 
-### Backend
+### ⚙️ Backend
 .NET • ASP.NET Core • Web API • Node.js • NestJS • Express • Flask
 
-### Frontend
+### 🎨 Frontend
 Angular • HTML5 • CSS3 • Bootstrap
 
-### Databases
+### 🗄️ Databases
 SQL Server • PostgreSQL • MongoDB • MySQL • Prisma ORM • pgvector
 
-### AI & Cloud
+### 🤖 AI & Cloud
 LLMs • RAG • AI Agents • Prompt Engineering • Meta Graph API • WhatsApp Integration • Docker
 
-### Software Engineering
+### 📐 Software Engineering
 OOP • SOLID • Design Patterns • REST APIs • Algorithms • Data Structures • Git
 
 ---
 
-## Key Projects
+## 📂 Key Projects
 
-- **AI Service Bot:** Conversational system for automated responses and user interaction analysis.
-- **Document Management System:** Full-stack platform with REST APIs, document organization, and audit history.
-- **MemDrive Engine:** High-performance in-memory database engine built with advanced Design Patterns and generic programming.
-- **Learning Platform:** AI-powered educational platform creating personalized learning experiences.
+- 🤖 **AI Service Bot:** Conversational system for automated responses and user interaction analysis.
+- 📄 **Document Management System:** Full-stack platform with REST APIs, document organization, and audit history.
+- ⚡ **MemDrive Engine:** High-performance in-memory database engine built with advanced Design Patterns and generic programming.
+- 🎓 **Learning Platform:** AI-powered educational platform creating personalized learning experiences.
 
 ---
 
-## Contact
+## 📫 Contact
 
-- **Email:** chanishulevitz@gmail.com
-- **GitHub:** [github.com/ChaniShulevits](https://github.com/ChaniShulevits)
+- ✉️ **Email:** chanishulevitz@gmail.com
+- 🐙 **GitHub:** [github.com/ChaniShulevits](https://github.com/ChaniShulevits)
