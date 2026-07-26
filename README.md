@@ -44,4 +44,4 @@ OOP • SOLID • Design Patterns • REST APIs • Algorithms • Data Structur
 ## Contact
 
 - **Email:** chanishulevitz@gmail.com
-- **GitHub:** [github.com/ChaniShulevitz](https://github.com/ChaniShulevits)
+- **GitHub:** [github.com/ChaniShulevits](https://github.com/ChaniShulevits)
