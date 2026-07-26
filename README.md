@@ -1,22 +1,16 @@
-# Hi there 👋 I'm Chani Shulevits
+# Hi, I'm Chani Shulevitz
 
-### Full Stack Developer | Software Engineering Student | AI & Backend Enthusiast
+## Software Developer | Backend & AI
 
-I'm passionate about building scalable web applications, backend systems, and AI-powered solutions.
-I enjoy learning new technologies, solving complex problems, and designing clean, maintainable software.
+I'm a software developer passionate about building backend systems, full-stack applications, and AI-powered solutions.
 
----
+Currently working at Bizz-Tec on Full Stack and AI projects, developing practical solutions using modern technologies.
 
-## 🚀 About Me
-
-- 🎓 Software Engineering Student (MAHAT)
-- 💼 Currently completing a Full Stack & AI Practicum at Bizz-Tec
-- 🤖 Passionate about AI Agents, Backend Development, and System Design
-- 🌱 Always learning and exploring new technologies
+I enjoy designing clean architectures, solving complex problems, and continuously learning new technologies.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 C# • Java • Python • TypeScript • JavaScript • SQL • C/C++
@@ -31,33 +25,35 @@ Angular • HTML5 • CSS3 • Bootstrap
 SQL Server • PostgreSQL • MongoDB • MySQL • Prisma ORM • pgvector
 
 ### AI & Cloud
-LLMs • Prompt Engineering • RAG • Meta Graph API • WhatsApp Integration • Docker • Cloud Computing
+LLMs • RAG • AI Agents • Prompt Engineering • Meta Graph API • WhatsApp Integration • Docker
 
 ### Software Engineering
-OOP • SOLID • Design Patterns • REST APIs • Algorithms • Data Structures • Git • GitHub
+OOP • SOLID • Design Patterns • REST APIs • Algorithms • Data Structures • Git
 
 ---
 
-## ⭐ Featured Projects
+## Projects
 
-### 📄 Document Management System
-Full Stack document management platform with REST APIs, audit history, and MongoDB.
+### Document Management System
 
-### 🧠 MemDrive Engine
-In-Memory Data Engine implementing advanced Design Patterns, SOLID principles, and Generic Programming.
+Full-stack document management platform with REST APIs, document organization, audit history, and database integration.
 
-### 🤖 AI Service Bot
-AI-powered conversation management system with sentiment analysis and statistical insights.
+### MemDrive Engine
 
-### 📚 Learning Platform
-AI-powered educational platform that generates personalized learning paths.
+In-memory database engine implementing advanced Design Patterns, SOLID principles, and generic programming.
+
+### AI Service Bot
+
+AI-powered conversational system for user interaction analysis, automated responses, and insights generation.
+
+### Learning Platform
+
+AI-powered educational platform that creates personalized learning experiences.
 
 ---
 
-## 📫 Connect with Me
+## Contact
 
-📧 chanishulevitz@gmail.com
+Email: chanishulevitz@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/chani-shulevits
-
-💻 GitHub: https://github.com/ChaniShulevits
+GitHub: https://github.com/ChaniShulevits
