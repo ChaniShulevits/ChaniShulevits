@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chani Shulevitz
+# 👋 Hi, I'm Chani 
 
 ## 💻 Software Developer | Backend & AI
 
