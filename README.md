@@ -2,9 +2,18 @@
 
 ### 💻 Backend & AI Developer
 
-🚀 Building backend systems, AI applications, and full-stack solutions.
+I'm passionate about backend development, AI, and building software that solves real-world problems.
 
 🌱 Always learning, always building.
+
+---
+
+## 👩‍💻 About Me
+
+* 🚀 Backend & AI Developer
+* 💼 Currently completing a **Software Development Practicum at Bizz Technologies**, where I work on real-world AI and backend projects alongside professional software developers.
+* 🤖 Interested in AI, LLMs, RAG, AI Agents, and backend development.
+* 📚 Always eager to learn new technologies and take on new challenges.
 
 ---
 
@@ -36,26 +45,10 @@
 
 ---
 
-## 🚀 Featured Projects
-
-🤖 **AI Service Bot**
-Conversational AI with automated responses.
-
-📄 **Document Management System**
-REST APIs, document organization & audit history.
-
-⚡ **MemDrive Engine**
-High-performance in-memory database engine.
-
-🎓 **Learning Platform**
-AI-powered personalized learning.
-
----
-
 ## 📫 Connect with me
 
 📧 **Email**
 **[chanishulevitz@gmail.com](mailto:chanishulevitz@gmail.com)**
 
 🐙 **GitHub**
-https://github.com/ChaniShulevits
+**https://github.com/ChaniShulevits**
