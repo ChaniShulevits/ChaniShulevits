@@ -11,7 +11,7 @@ I'm passionate about backend development, AI, and building software that solves 
 ## 👩‍💻 About Me
 
 * 🚀 Backend & AI Developer
-* 💼 Currently completing a **Software Development Practicum at Bizz Technologies**, where I work on real-world AI and backend projects alongside professional software developers.
+* 💼 Currently completing a **Software Development Practicum at Bizz Technologies**, where I work on real-world AI and backend projects.
 * 🤖 Interested in AI, LLMs, RAG, AI Agents, and backend development.
 * 📚 Always eager to learn new technologies and take on new challenges.
 
