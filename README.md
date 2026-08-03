@@ -1,49 +1,61 @@
-# 👋 Hi, I'm Chani 
+# 👋 Hi, I'm Chani
 
-## 💻 Software Developer | Backend & AI
+### 💻 Backend & AI Developer
 
-I'm a software developer passionate about building backend systems, full-stack applications, and AI-powered solutions.
+🚀 Building backend systems, AI applications, and full-stack solutions.
 
-🚀 Currently working at **Bizz-Tec** on Full Stack and AI projects, developing practical solutions using modern technologies.
-
-💡 I enjoy designing clean architectures, solving complex problems, and continuously learning new technologies.
+🌱 Always learning, always building.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🗣️ Languages
-C# • Java • Python • TypeScript • JavaScript • SQL • C/C++
+### Languages
 
-### ⚙️ Backend
-.NET • ASP.NET Core • Web API • Node.js • NestJS • Express • Flask
+<img src="https://skillicons.dev/icons?i=cs,java,python,ts,js,c,cpp" />
 
-### 🎨 Frontend
-Angular • HTML5 • CSS3 • Bootstrap
+### Backend
 
-### 🗄️ Databases
-SQL Server • PostgreSQL • MongoDB • MySQL • Prisma ORM • pgvector
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,express,flask" />
 
-### 🤖 AI & Cloud
-LLMs • RAG • AI Agents • Prompt Engineering • Meta Graph API • WhatsApp Integration • Docker
+### Frontend
 
-### 📐 Software Engineering
-OOP • SOLID • Design Patterns • REST APIs • Algorithms • Data Structures • Git
+<img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap" />
 
----
+### Databases
 
-## 📂 Key Projects
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 
-- 🤖 **AI Service Bot:** Conversational system for automated responses and user interaction analysis.
-- 📄 **Document Management System:** Full-stack platform with REST APIs, document organization, and audit history.
-- ⚡ **MemDrive Engine:** High-performance in-memory database engine built with advanced Design Patterns and generic programming.
-- 🎓 **Learning Platform:** AI-powered educational platform creating personalized learning experiences.
+**Also:** SQL Server • Prisma • pgvector
+
+### AI & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git" />
+
+**AI:** LLMs • RAG • AI Agents • Prompt Engineering • Meta Graph API
 
 ---
 
-## 📫 Contact
+## 🚀 Featured Projects
 
-- ✉️ **Email:** chanishulevitz@gmail.com
-- 📞 **Phone:** 0534163943
-- 🐙 **GitHub:** [github.com/ChaniShulevits](https://github.com/ChaniShulevits)
+🤖 **AI Service Bot**
+Conversational AI with automated responses.
 
+📄 **Document Management System**
+REST APIs, document organization & audit history.
+
+⚡ **MemDrive Engine**
+High-performance in-memory database engine.
+
+🎓 **Learning Platform**
+AI-powered personalized learning.
+
+---
+
+## 📫 Connect with me
+
+📧 **Email**
+**[chanishulevitz@gmail.com](mailto:chanishulevitz@gmail.com)**
+
+🐙 **GitHub**
+https://github.com/ChaniShulevits
